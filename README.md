@@ -1,2 +1,2 @@
-# html-css-javascript
+# HTML / CSS / JavaScript course
 Codes from my HTML/CSS/JavaScript course.
